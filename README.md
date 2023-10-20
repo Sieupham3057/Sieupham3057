@@ -1,4 +1,5 @@
-# Khóa Học Dành Cho Những Bạn Muốn Trở Thành Senior Hay Leader Và Mục Đích Cuối Cùng Là Trở Thành 'Senior Solution Architect'
+# Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
+# ==>> 👉'😂SENIOR-SOLUTION-ARCHITECT🤣'👈 <<==
 
 ## Danh Sách Các Khóa Nên Học Theo Thứ Tự: 
 ### Khóa 1: COURSE-1-StructureCode-SetupCiCd
