@@ -20,7 +20,7 @@
 ...
 
 ## Students-participated-in-the-Courses 'Danh Sách Học Viên Đã Tham Gia Khóa Học'
-  - https://github.com/Sieupham3057/Students-participated-in-the-Courses/blob/main/README.md
+  - https://github.com/Sieupham3057/Students-participated-in-the-Courses/blob/main/README.md (<b>Indivisual</b> Just for Me!!!)
 
   ## Information:
  - Youtube Channel: https://www.youtube.com/channel/UCCOP-RoCEXCrpDWH12-Nn5w
