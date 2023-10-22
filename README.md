@@ -9,7 +9,7 @@
       + Demo Tổng Quan: https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
       + Public only 1/2 Bài 1: https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s
       + Public only 1/3 Bài 2: https://www.youtube.com/watch?v=LaG6dKN4cjI
-      + Public only 1/3 Bài 3: https://www.youtube.com/watch?v=lKlmoMNwjRw ⭐⭐⭐ (😨 <b>Senior .NET In Real Life</b> 😳)
+      + ⭐ Public only 1/3 Bài 3: https://www.youtube.com/watch?v=lKlmoMNwjRw ⭐⭐⭐ (😨 <b>Senior .NET In Real Life</b> 😳)
   - Mô tả:
       * Hiểu sâu về bản chất Structure Code những điểm mạnh và điểm yếu để có thể:
           + 😍 <b>Create Structure Code</b>
