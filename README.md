@@ -4,7 +4,7 @@
 ## Danh Sách Các Khóa Nên Học Theo Thứ Tự: 
 ### Khóa 1: COURSE-1-StructureCode-SetupCiCd
 #### Số Người Đăng Ký: 7 ⭐
-  https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
+ 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd 👈
   - Demo:
       + Demo Tổng Quan: https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
       + Public only 1/2 Bài 1 Tổng Quan Về Structure Code - Clean architecture: https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s
