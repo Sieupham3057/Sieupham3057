@@ -3,13 +3,14 @@
 
 ## Danh Sách Các Khóa Nên Học Theo Thứ Tự: 
 ### Khóa 1: COURSE-1-StructureCode-SetupCiCd
-#### Số Người Đăng Ký: 7 ⭐
+#### Số Người Đăng Ký: 8 ⭐
  👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd 👈
   - Demo:
-      + Demo Tổng Quan: https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
-      + Public only 1/2 Bài 1 Tổng Quan Về Structure Code - Clean architecture: https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s
-      + Public only 1/3 Bài 2 Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: https://www.youtube.com/watch?v=LaG6dKN4cjI
-      + ⭐ Public only 1/3 Bài 3  Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: https://www.youtube.com/watch?v=lKlmoMNwjRw ⭐⭐⭐ (😨 <b>Senior .NET In Real Life</b> 😳)
+      + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
+      + <b>RabbitMQ với Masstransit và Tổng Quan - Chuẩn Hóa Structure Code:</b> https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+      + <b>Public only 1/2 Bài 1 Tổng Quan Về Structure Code - Clean architecture:</b> https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s
+      + <b>Public only 1/3 Bài 2 Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database:</b> https://www.youtube.com/watch?v=LaG6dKN4cjI
+      + ⭐ <b>Public only 1/3 Bài 3  Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor:</b> https://www.youtube.com/watch?v=lKlmoMNwjRw ⭐⭐⭐ (😨 <b>Senior .NET In Real Life</b> 😳)
   - Mô tả:
       * Hiểu sâu về bản chất Structure Code những điểm mạnh và điểm yếu để có thể:
           + 😍 <b>Create Structure Code</b>
