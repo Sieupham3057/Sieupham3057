@@ -3,7 +3,7 @@
 
 ## Danh Sách Các Khóa Nên Học Theo Thứ Tự: 
 ### Khóa 1: COURSE-1-StructureCode-SetupCiCd
-#### Số Người Đăng Ký: 8 ⭐
+#### Số Người Đăng Ký: 10 ⭐
  👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd 👈
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
