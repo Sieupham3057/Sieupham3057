@@ -1,7 +1,7 @@
  ## Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
 ### ==>> 👉'😂SENIOR-SOLUTION-ARCHITECT🤣'👈 <<==
 
-# 👉👉👉 Khóa 1: COURSE-1-StructureCode-SetupCiCd 👈👈👈
+# 👉👉👉 Khóa 1: COURSE-1-StructureCode-SetupCiCd
 #### Số Người Đăng Ký: 10 ⭐ 
 ```diff
 ! 20 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
@@ -23,7 +23,7 @@
           + 🥰 <b>Review Code</b> khi đảm nhiệm vị trí <b>Senior</b> hay <b>Leader</b>"
       * Setup <b>Environment</b> và <b>CI-CD </b>trong lúc Development Team
         
-# 👉👉👉 Khóa 2: Masstransit với RabbitMQ: Powerfull 👈👈👈
+# 👉👉👉 Khóa 2: Masstransit với RabbitMQ: Powerfull
 #### Content and Demo: 
 ##### Rabbit Với Masstransit: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
 ##### RabbitMQ Thuần: https://www.youtube.com/watch?v=H_VMFPW0bQs&t=2762s
