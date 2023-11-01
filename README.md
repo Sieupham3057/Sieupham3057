@@ -24,7 +24,8 @@
           + 🥰 <b>Review Code</b> khi đảm nhiệm vị trí <b>Senior</b> hay <b>Leader</b>"
       * Setup <b>Environment</b> và <b>CI-CD </b>trong lúc Development Team
         
-# 👉👉👉 Khóa 2: Masstransit với RabbitMQ: Powerfull
+# 👉👉👉 Khóa 2: Masstransit với RabbitMQ: 
+## Status: 'Todo', Note: After completing course 1
 #### Content and Demo: 
 ##### Rabbit Với Masstransit: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
 ##### RabbitMQ Thuần: https://www.youtube.com/watch?v=H_VMFPW0bQs&t=2762s
