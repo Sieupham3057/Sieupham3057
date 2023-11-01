@@ -4,7 +4,7 @@
 # 👉👉👉 Khóa 1: COURSE-1-StructureCode-SetupCiCd
 #### Số Người Đăng Ký: 11 ⭐ 
 ```diff
-! 20 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
+! 15 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
 ```
  ###  https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd 👈
   - Demo:
