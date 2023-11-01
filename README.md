@@ -9,6 +9,7 @@
  ###  https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd 👈
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
+      + Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
       + <b>RabbitMQ với Masstransit và Tổng Quan - Chuẩn Hóa Structure Code:</b> https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
       + <b>Public only 1/2 Bài 1 Tổng Quan Về Structure Code - Clean architecture:</b> https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s
       + <b>Public only 1/3 Bài 2 Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database:</b> https://www.youtube.com/watch?v=LaG6dKN4cjI
