@@ -2,7 +2,7 @@
  ##  ==>> 👉'😂SENIOR-SOLUTION-ARCHITECT🤣'👈 <<==
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
-#### Số Người Đăng Ký: 18 ⭐ 
+#### Số Người Đăng Ký: 19 ⭐ 
 ```diff
 ! 20 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
 ```
