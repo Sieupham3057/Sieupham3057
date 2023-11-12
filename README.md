@@ -21,10 +21,12 @@
       * Setup <b>Environment</b> và <b>CI-CD </b>trong lúc Development Team
         
 # 👉 Khóa 2: Masstransit với RabbitMQ: 
-## Status: 'Todo', Note: After completing course 1
+ ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-2-Masstransit-RabbitMQ
 #### Content and Demo: 
 ##### Rabbit Với Masstransit: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
-##### RabbitMQ Thuần: https://www.youtube.com/watch?v=H_VMFPW0bQs&t=2762s
+ - Command - CommandBus - Event - EventBus
+ - Exchange - Queue
+ - Producer - Consumer
  - Publish Event
  - Send Command
  - PipeFilters: ContractValidatorFilter - BusinessValidatorFilter
