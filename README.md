@@ -2,7 +2,7 @@
  ##  ==>> 👉'😂SENIOR-SOLUTION-ARCHITECT🤣'👈 <<==
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
-## Số Người Đăng Ký: 25 ⭐ 
+## Số Người Đăng Ký: 26 ⭐ 
 ```diff
 ! 20 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
 ```
@@ -21,6 +21,7 @@
       * Setup <b>Environment</b> và <b>CI-CD </b>trong lúc Development Team
         
 # 👉 Khóa 2: Masstransit với RabbitMQ: 
+## Số Người Đăng Ký: 0 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-2-Masstransit-RabbitMQ
 #### Content and Demo: 
 ##### Rabbit Với Masstransit: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
