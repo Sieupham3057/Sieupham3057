@@ -1,5 +1,4 @@
 # Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
- ##  ==>> 👉'😂SENIOR-SOLUTION-ARCHITECT🤣'👈 <<==
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
 ## Số Người Đăng Ký: 27 ⭐ 
