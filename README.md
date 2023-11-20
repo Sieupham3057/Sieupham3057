@@ -2,9 +2,6 @@
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
 ## Số Người Đăng Ký: 27 ⭐ 
-```diff
-! 20 Người đầu tiên đăng ký ở khóa 1 sẽ được join thêm vào khóa 2: "Masstransit với RabbitMQ"
-```
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
