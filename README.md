@@ -31,6 +31,16 @@
  - Correlation
  - ...
 
+# 👉 Khóa 3: Distributed System với RabbitMQ (Coming Soon)
+ - CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)
+ - RabbitMQ => Outbox pattern - Idempotence pattern: Sql + MongoDB
+ - Authen - Author - Identity - Authen use binary
+ - Token Management + Redis: JWT (header + payload + secret_key)
+ - Redis Cache - Invaid Cache
+ - MediatR => Write side: SQL + Read side: MongoDB
+ - Swagger Api Versoning
+ - ...
+
 ## Students-participated-in-the-Courses 'Danh Sách Học Viên Đã Tham Gia Khóa Học'
   - https://github.com/Sieupham3057/Students-participated-in-the-Courses/blob/main/README.md (<b>Indivisual</b> Just for Me!!!)
 
