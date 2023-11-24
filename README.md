@@ -32,6 +32,9 @@
  - ...
 
 # 👉 Khóa 3: Distributed System với RabbitMQ (Coming Soon)
+## Số Người Đăng Ký: 0 ⭐ 
+ ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
+#### Content and Demo: https://www.youtube.com/watch?v=hm365SMZNm4&t=5s
  - CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)
  - RabbitMQ => Outbox pattern - Idempotence pattern: Sql + MongoDB
  - Authen - Author - Identity - Authen use binary
