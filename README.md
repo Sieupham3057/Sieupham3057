@@ -33,7 +33,7 @@
 
 # 👉 Khóa 3: Distributed System với RabbitMQ (Coming Soon)
 ```diff
-! 👉👉 <h3>Discount cho 10 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
+! 👉👉 <h3>Discount cho 15 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
 ```  
 ## Số Người Đăng Ký: 1 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
