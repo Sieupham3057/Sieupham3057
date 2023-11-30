@@ -45,6 +45,7 @@
  - Redis Cache - Invaid Cache
  - MediatR => Write side: SQL + Read side: MongoDB
  - Swagger Api Versoning
+ - Minimal API với Carter
  - ...
 
 ## Students-participated-in-the-Courses 'Danh Sách Học Viên Đã Tham Gia Khóa Học'
