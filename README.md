@@ -39,6 +39,7 @@
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
 #### Content and Demo: https://www.youtube.com/watch?v=hm365SMZNm4&t=5s
  - 😍 <b>CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)</b>
+ - 😍 <b>Triển khai Outbox Pattern - Idempotent Pattern => Bài toán Toàn Vẹn Dữ Liệu</b>
  - 😍 <b>RabbitMQ => Outbox pattern - Idempotence pattern: Sql + MongoDB</b>
  - 😍 <b>Authen - Author - Identity - Authen use binary</b>
  - 😍 <b>Authen - Author - Identity - Authen use binary</b>
