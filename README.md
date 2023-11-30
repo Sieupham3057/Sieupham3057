@@ -35,7 +35,7 @@
 ```diff
 ! 👉👉 <h3>Discount cho 15 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
 ```  
-## Số Người Đăng Ký: 2 ⭐ 
+## Số Người Đăng Ký: 3 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
 #### Content and Demo: https://www.youtube.com/watch?v=hm365SMZNm4&t=5s
  - CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)
