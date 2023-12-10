@@ -1,7 +1,7 @@
 # Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
-## Số Người Đăng Ký: 32 ⭐ 
+## Số Người Đăng Ký: 36 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
