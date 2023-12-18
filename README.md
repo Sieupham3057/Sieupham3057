@@ -1,7 +1,7 @@
 # Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
-## Số Người Đăng Ký: 36 ⭐ 
+## Số Người Đăng Ký: 37 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
@@ -35,7 +35,7 @@
 ```diff
 ! 👉👉 <h3>Discount cho 15 Người Đầu Tiên đăng ký khóa học Distributed System với RabbitMQ</h3> 👍👍
 ```  
-## Số Người Đăng Ký: 3 ⭐ 
+## Số Người Đăng Ký: 7 ⭐ 
  ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
 #### Content and Demo: https://www.youtube.com/watch?v=hm365SMZNm4&t=5s
  - 😍 <b>CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)</b>
