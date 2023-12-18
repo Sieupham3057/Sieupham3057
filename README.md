@@ -42,12 +42,12 @@
  - 😍 <b>Triển khai Outbox Pattern - Idempotent Pattern => Bài toán Toàn Vẹn Dữ Liệu</b>
  - 😍 <b>RabbitMQ => Outbox pattern - Idempotence pattern: Sql + MongoDB</b>
  - 😍 <b>Authen - Author - Identity - Authen use binary</b>
- - 😍 <b>Authen - Author - Identity - Authen use binary</b>
  - 😍 <b>Token Management + Redis: JWT (header + payload + secret_key)</b>
  - 😍 <b>Redis Cache - Invaid Cache</b>
  - 😍 <b>MediatR => Write side: SQL + Read side: MongoDB</b>
  - 😍 <b>Swagger Api Versoning</b>
  - 😍 <b>Minimal API với Carter</b>
+ - 😍 <b>Build Gateways API và Load Balancing với Yarp Reverse Proxy</b>
  - ...
 
 ## Students-participated-in-the-Courses 'Danh Sách Học Viên Đã Tham Gia Khóa Học'
