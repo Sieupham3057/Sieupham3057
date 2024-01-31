@@ -2,7 +2,7 @@
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
 ## Số Người Đăng Ký: 38 ⭐ 
- ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
+ ## (CLICK_HERE) 👉 https://github.com/Sieupham3057/COURSE-1-StructureCode-SetupCiCd
   - Demo:
       + <b>Demo Tổng Quan:</b> https://www.youtube.com/watch?v=3QqqXJd1Yn0 ⭐
       + Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
@@ -18,7 +18,7 @@
         
 # 👉 Khóa 2: Masstransit với RabbitMQ: 
 ## Số Người Đăng Ký: 1 ⭐ 
- ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-2-Masstransit-RabbitMQ
+ ## (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-2-Masstransit-RabbitMQ
 #### Content and Demo: 
 ##### Rabbit Với Masstransit: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  - Command - CommandBus - Event - EventBus
@@ -31,10 +31,10 @@
  - Correlation
  - ...
 
-# 👉 Khóa 3: Distributed System với RabbitMQ (Coming Soon)
+# 👉 Khóa 3: Distributed System với RabbitMQ
 
 ## Số Người Đăng Ký: 8 ⭐ 
- ### (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
+ ## (CLICK_HERE) 👉 https://github.com/Sieupham3057/Course-3-Distributed-System-RabbitMQ
 #### Content and Demo: https://www.youtube.com/watch?v=hm365SMZNm4&t=5s
  - 😍 <b>CQRS => WriteSide(SqlServer) + ReadSide(MongoDb)</b>
  - 😍 <b>Triển khai Outbox Pattern - Idempotent Pattern => Bài toán Toàn Vẹn Dữ Liệu</b>
