@@ -1,4 +1,4 @@
-# Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 
+# Khóa Học Trở Thành: 'SENIOR'🤔 OR 'LEADER'🙄 .NET Microsoft
 
 # 👉 Khóa 1: StructureCode-SetupCiCd-Jenkin
 ## Số Người Đăng Ký: 254 ⭐ 
